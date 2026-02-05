@@ -37,9 +37,9 @@ I have experience in building scalable web applications using MERN stack .
 
 ## 🌐 Social Media  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/21R11A0426)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/your-id)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/vinay-kumar001/])
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/vinay1723)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_vi_nay._?igsh=NWptb3BsaWV6eXZ0)
 
 ## ✨ Random Dev Quote  
 
